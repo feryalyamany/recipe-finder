@@ -1,0 +1,13 @@
+
+.meal {
+  box-shadow:  3px 3px 8px rgba(205, 200, 200, 0.25),  -3px -3px 8px rgba(234, 221, 221, 0.25);  
+}
+
+
+.shady {
+  box-shadow:  3px 0px 8px rgba(164, 159, 159, 0.25), -3px 0px 8px rgba(203, 196, 196, 0.25) ;
+}
+
+.icon{
+  color: #9E403A;
+} 
